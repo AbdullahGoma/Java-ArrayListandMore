@@ -1,0 +1,19 @@
+    This is a test file with some
+    leading and trailing whitespace on some lines.
+    
+    Some lines have no leading or trailing whitespace.
+    And some lines have only whitespace.   
+    
+	
+	
+	
+	
+	
+    This line has a tab character at the beginning.		
+    
+    This line has a tab character at the end.	    
+    
+    This line has both leading and trailing whitespace.      
+    
+    This line has leading whitespace but no trailing whitespace.
+    This line has no leading whitespace but trailing whitespace.

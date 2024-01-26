@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=WordPlay
+comment1.params=ch
+comment1.target=boolean\ isVowel(char)
+comment1.text=This\ method\ returns\ true\ if\ ch\ is\ a\ vowel\ (one\ of\ 'a',\ 'e',\ 'i',\ 'o',\ or\ 'u'\ or\ the\ uppercase\ versions)\ and\ false\ otherwise
+comment2.params=phrase\ ch
+comment2.target=java.lang.String\ replaceVowels(java.lang.String,\ char)
+comment2.text=The\ method\ returns\ a\ String\ that\ is\ the\ string\ phrase\ with\ all\ the\ vowels\ (uppercase\ or\ lowercase)\ replaced\ by\ ch
+comment3.params=phrase\ ch
+comment3.target=java.lang.String\ emphasize(java.lang.String,\ char)
+comment3.text=The\ method\ returns\ a\ String\ that\ is\ the\ string\ phrase\ but\ with\ the\ Char\ ch\ (upper-\ or\ lowercase)\ replaced\ by\ '*'\ or\ '+'
+comment4.params=
+comment4.target=void\ testAll()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
